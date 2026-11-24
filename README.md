@@ -15,7 +15,7 @@
 <a href="mailto:zenhao007@gmail.com"><img src="https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="Email"/></a>
 
 <br/><br/>
-<sub>🔍 Open to: <b>internships</b> · <b>CTF teams</b> · <b>collaboration</b></sub>
+<sub>🔍 Open to: <b>CTF teams</b> · <b>collaboration</b></sub>
 
 </div>
 
