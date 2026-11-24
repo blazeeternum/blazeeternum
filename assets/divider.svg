@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 60" width="1200" height="60" role="img" aria-label="wave divider">
+<style>
+.w1{animation:sw 6s linear infinite} .w2{animation:sw 9s linear infinite reverse}
+@keyframes sw{from{transform:translateX(0)}to{transform:translateX(-150px)}}
+.fin{animation:swim 14s linear infinite}
+@keyframes swim{from{transform:translateX(-80px)}to{transform:translateX(1280px)}}
+</style>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00f5ff"/><stop offset=".5" stop-color="#b86bff"/><stop offset="1" stop-color="#ff2bd6"/></linearGradient>
+<filter id="gl"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<g class="w2" opacity=".35"><path d="M0 30 Q37 10 75 30 Q112 50 150 30 Q187 10 225 30 Q262 50 300 30 Q337 10 375 30 Q412 50 450 30 Q487 10 525 30 Q562 50 600 30 Q637 10 675 30 Q712 50 750 30 Q787 10 825 30 Q862 50 900 30 Q937 10 975 30 Q1012 50 1050 30 Q1087 10 1125 30 Q1162 50 1200 30 Q1237 10 1275 30 Q1312 50 1350 30" fill="none" stroke="url(#g)" stroke-width="2"/></g>
+<g class="w1" filter="url(#gl)"><path d="M0 30 Q37 10 75 30 Q112 50 150 30 Q187 10 225 30 Q262 50 300 30 Q337 10 375 30 Q412 50 450 30 Q487 10 525 30 Q562 50 600 30 Q637 10 675 30 Q712 50 750 30 Q787 10 825 30 Q862 50 900 30 Q937 10 975 30 Q1012 50 1050 30 Q1087 10 1125 30 Q1162 50 1200 30 Q1237 10 1275 30 Q1312 50 1350 30" fill="none" stroke="url(#g)" stroke-width="3"/></g>
+<g class="fin" filter="url(#gl)"><path d="M0 34 Q14 8 30 4 Q26 20 38 34Z" fill="#5ad7ff" stroke="#00f5ff" stroke-width="2"/><circle cx="-6" cy="30" r="2" fill="none" stroke="#7df9ff"/></g>
+</svg>
