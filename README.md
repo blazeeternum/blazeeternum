@@ -10,7 +10,7 @@
 
 <a href="https://blazewebsite.dpdns.org/"><img src="https://img.shields.io/badge/Website-0d0221?style=for-the-badge&logo=googlechrome&logoColor=00f5ff" alt="Website"/></a>
 <a href="https://www.youtube.com/@BlazeEternum"><img src="https://img.shields.io/badge/YouTube-0d0221?style=for-the-badge&logo=youtube&logoColor=ff2bd6" alt="YouTube"/></a>
-<a href="https://www.linkedin.com/in/zen-hao-lau-334884223/"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=00f5ff" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/%EF%BC%88blaze%EF%BC%89lau-zen-hao-334884223/"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=00f5ff" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/lauzenhao_blaze/"><img src="https://img.shields.io/badge/Instagram-0d0221?style=for-the-badge&logo=instagram&logoColor=ff2bd6" alt="Instagram"/></a>
 <a href="mailto:zenhao007@gmail.com"><img src="https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="Email"/></a>
 
