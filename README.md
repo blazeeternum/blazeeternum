@@ -14,6 +14,9 @@
 <a href="https://www.instagram.com/lauzenhao_blaze/"><img src="https://img.shields.io/badge/Instagram-0d0221?style=for-the-badge&logo=instagram&logoColor=ff2bd6" alt="Instagram"/></a>
 <a href="mailto:zenhao007@gmail.com"><img src="https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="Email"/></a>
 
+<br/><br/>
+<sub>🔍 Open to: <b>internships</b> · <b>CTF teams</b> · <b>collaboration</b></sub>
+
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -60,6 +63,10 @@ blaze@eternum:~$ echo $PHILOSOPHY
   <img src="https://img.shields.io/badge/Git-0d0221?style=for-the-badge&logo=git&logoColor=ff2bd6" alt="Git"/>
   <img src="https://img.shields.io/badge/VS%20Code-0d0221?style=for-the-badge&logo=visualstudiocode&logoColor=00f5ff" alt="VS Code"/>
   <img src="https://img.shields.io/badge/DaVinci%20Resolve-0d0221?style=for-the-badge&logo=davinciresolve&logoColor=b86bff" alt="DaVinci Resolve"/>
+<br/>
+  <img src="https://img.shields.io/badge/Linux-0d0221?style=for-the-badge&logo=linux&logoColor=00ff9c" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-0d0221?style=for-the-badge&logo=kalilinux&logoColor=00f5ff" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Wireshark-0d0221?style=for-the-badge&logo=wireshark&logoColor=ff2bd6" alt="Wireshark"/>
 
 </div>
 
@@ -73,8 +80,9 @@ blaze@eternum:~$ echo $PHILOSOPHY
       <img src="assets/projects/Encryptor.png" alt="BlazeEternum Secure Encryptor"/>
       <h3>🔐 BlazeEternum Secure Encryptor v6.0.0</h3>
       <p>Post-quantum file encryption tool in <b>Rust</b>.<br/>
-      <code>Kyber-1024 (FIPS 203)</code> · <code>AES-256-GCM + HKDF-SHA256</code> · <code>Argon2id</code> key-file KDF.</p>
-      <sub>Personal project</sub>
+      <code>ML-KEM-1024 / Kyber (FIPS 203)</code> · <code>AES-256-GCM + HKDF-SHA256</code> · <code>Argon2id</code> key-file KDF.</p>
+      <sub>Personal &amp; educational project · not independently audited</sub>
+      <!-- TODO: add repo link, e.g. <a href="https://github.com/blazeeternum/YOUR-REPO">💻 Source</a> -->
     </td>
     <td width="33%" valign="top">
       <img src="assets/projects/SpeakUP_VR.jpg" alt="SpeakUP VR"/>
@@ -97,6 +105,24 @@ blaze@eternum:~$ echo $PHILOSOPHY
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
+## 🛡️ Security Focus
+
+```text
+blaze@eternum:~$ cat security_roadmap.txt
+[>] Networking fundamentals  : TCP/IP, DNS, HTTP
+[>] Log analysis             : Windows Event Logs, Linux logs
+[>] Packet analysis          : Wireshark
+[ ] Incident response        : lifecycle per NIST SP 800-61
+[ ] Threat frameworks        : MITRE ATT&CK
+[ ] Hands-on practice        : CTFs, TryHackMe, HackTheBox
+[x] Applied cryptography     : built a post-quantum file encryptor (Rust)
+
+legend: [x] done   [>] learning   [ ] planned
+```
+<!-- TODO: add your real certifications / CTF results here once you have them -->
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 ## 🏆 Highlights
 
 - 🥉 **Top 3 (VR)**, MYVERSE Malaysia Creative Technology Competition 2026, with Team META:GEN
@@ -107,13 +133,15 @@ blaze@eternum:~$ echo $PHILOSOPHY
 <summary><b>📚 Currently learning</b></summary>
 <br/>
 
-`JavaScript DOM` · `Responsive Design` · `UI/UX Basics` · `CSS Animations` · `Unity` · `3D Modeling` · `Advanced Video Editing`
+`Networking` · `Log Analysis` · `Wireshark` · `Incident Response` · `MITRE ATT&CK` · `JavaScript DOM` · `Responsive Design` · `UI/UX Basics` · `CSS Animations` · `Unity` · `3D Modeling` · `Advanced Video Editing`
 
 </details>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 📊 GitHub Stats
+<details>
+<summary><b>📊 GitHub Stats</b></summary>
+<br/>
 
 <div align="center">
 
@@ -123,6 +151,8 @@ blaze@eternum:~$ echo $PHILOSOPHY
 <img src="https://streak-stats.demolab.com?user=blazeeternum&background=0d0221&ring=ff2bd6&fire=ff9f1c&currStreakLabel=00f5ff&sideLabels=c9f7ff&currStreakNum=ffffff&sideNums=ffffff&dates=8bb7c4&stroke=00f5ff33&border=00f5ff" alt="GitHub streak"/>
 
 </div>
+
+</details>
 
 <br/>
 
