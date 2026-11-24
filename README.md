@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="Blaze Eternum - cyber shark banner" width="100%"/>
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
+<a href="https://github.com/blazeeternum">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=720&height=40&lines=Hi!+I'm+Lau+Zen+Hao+(Blaze+Eternum)+%F0%9F%A6%88;Cybersecurity+student+%40+New+Era+University+College;Aspiring+Incident+Responder+%7C+Security+Researcher;Game+Dev+%C2%B7+3D+Modeling+%C2%B7+Video+Editing;Builder+%E2%86%92+Defender" alt="Typing SVG"/>
 </a>
 
@@ -117,10 +117,10 @@ blaze@eternum:~$ echo $PHILOSOPHY
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=0d0221&title_color=00f5ff&text_color=c9f7ff&icon_color=ff2bd6&ring_color=b86bff" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=0d0221&title_color=00f5ff&text_color=c9f7ff&icon_color=ff2bd6&ring_color=b86bff" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=blazeeternum&show_icons=true&hide_border=true&bg_color=0d0221&title_color=00f5ff&text_color=c9f7ff&icon_color=ff2bd6&ring_color=b86bff" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazeeternum&layout=compact&hide_border=true&bg_color=0d0221&title_color=00f5ff&text_color=c9f7ff&icon_color=ff2bd6&ring_color=b86bff" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&background=0d0221&ring=ff2bd6&fire=ff9f1c&currStreakLabel=00f5ff&sideLabels=c9f7ff&currStreakNum=ffffff&sideNums=ffffff&dates=8bb7c4&stroke=00f5ff33&border=00f5ff" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=blazeeternum&background=0d0221&ring=ff2bd6&fire=ff9f1c&currStreakLabel=00f5ff&sideLabels=c9f7ff&currStreakNum=ffffff&sideNums=ffffff&dates=8bb7c4&stroke=00f5ff33&border=00f5ff" alt="GitHub streak"/>
 
 </div>
 
