@@ -1,199 +1,289 @@
-<div align="center">
-
-<img src="assets/hero-banner.svg" alt="Blaze Eternum: a pixel-art cyber shark swimming through the digital matrix" width="100%">
-
-<a href="https://github.com/blazeeternum"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=480&height=48&lines=INITIALIZING+BLAZE+ETERNUM...;WELCOME+TO+MY+DIGITAL+OCEAN.;CYBERSECURITY+%7C+CREATIVE+TECHNOLOGY.;EVOLVING+ALONGSIDE+TECHNOLOGY." alt="Typing animation: Initializing Blaze Eternum. Welcome to my digital ocean. Cybersecurity | Creative Technology. Evolving alongside technology."></a>
-
-</div>
-
-<img src="assets/divider.svg" alt="" width="100%">
-
-## 🦈 About Me
+<!-- ===================================================================
+     BLAZE ETERNUM — GitHub Profile README
+     Theme : a cute pixel cyber shark swimming through the digital matrix
+     Stack : GitHub-flavored Markdown + plain HTML + hand-built SVG assets
+             (no JavaScript, no custom CSS, no canvas)
+     Assets: ./assets  (banner.svg, divider.svg, shark.svg, footer.svg, projects/)
+     Badges: shields.io  ·  Stats: github-readme-stats / streak-stats / activity-graph
+     =================================================================== -->
 
 <div align="center">
 
-<img src="assets/profile.png" alt="Portrait of Lau Zen Hao (Blaze Eternum)" width="180">
+<img src="assets/banner.svg" alt="BLAZE ETERNUM — a pixel cyber shark swimming through the digital ocean. CYBERSECURITY | CREATIVE TECHNOLOGY." width="100%">
 
-<sub>Lau Zen Hao · Blaze Eternum</sub>
+<br>
+
+<a href="https://github.com/blazeeternum">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=640&height=44&lines=INITIALIZING+BLAZE+ETERNUM...;WELCOME+TO+MY+DIGITAL+OCEAN.;CYBERSECURITY+%7C+CREATIVE+TECHNOLOGY.;EVOLVING+ALONGSIDE+TECHNOLOGY." alt="INITIALIZING BLAZE ETERNUM... WELCOME TO MY DIGITAL OCEAN. CYBERSECURITY | CREATIVE TECHNOLOGY. EVOLVING ALONGSIDE TECHNOLOGY.">
+</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-CYBER_SECURITY_STUDENT-050510?style=for-the-badge&labelColor=0A1025&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMSAxMiIgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj48cmVjdCB4PSIyIiB5PSIxIiB3aWR0aD0iNyIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGRjQxIi8%2BCjxyZWN0IHg9IjEiIHk9IjIiIHdpZHRoPSI5IiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGNDEiLz4KPHJlY3QgeD0iMSIgeT0iMyIgd2lkdGg9IjQiIGhlaWdodD0iMSIgZmlsbD0iIzAwRkY0MSIvPgo8cmVjdCB4PSI2IiB5PSIzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGRjQxIi8%2BCjxyZWN0IHg9IjEiIHk9IjQiIHdpZHRoPSIzIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGNDEiLz4KPHJlY3QgeD0iNyIgeT0iNCIgd2lkdGg9IjMiIGhlaWdodD0iMSIgZmlsbD0iIzAwRkY0MSIvPgo8cmVjdCB4PSIxIiB5PSI1IiB3aWR0aD0iNCIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGRjQxIi8%2BCjxyZWN0IHg9IjYiIHk9IjUiIHdpZHRoPSI0IiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGNDEiLz4KPHJlY3QgeD0iMiIgeT0iNiIgd2lkdGg9IjciIGhlaWdodD0iMSIgZmlsbD0iIzAwRkY0MSIvPgo8cmVjdCB4PSIyIiB5PSI3IiB3aWR0aD0iNyIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGRjQxIi8%2BCjxyZWN0IHg9IjMiIHk9IjgiIHdpZHRoPSI1IiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGNDEiLz4KPHJlY3QgeD0iNCIgeT0iOSIgd2lkdGg9IjMiIGhlaWdodD0iMSIgZmlsbD0iIzAwRkY0MSIvPgo8cmVjdCB4PSI1IiB5PSIxMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRkY0MSIvPjwvc3ZnPg%3D%3D" alt="Status: Cyber Security student">
+<img src="https://img.shields.io/badge/MINDSET-BUILDER_%E2%86%92_DEFENDER-050510?style=for-the-badge&labelColor=0A1025&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMSA5IiBzaGFwZS1yZW5kZXJpbmc9ImNyaXNwRWRnZXMiPjxyZWN0IHg9IjQiIHk9IjEiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEY3RkYiLz4KPHJlY3QgeD0iNiIgeT0iMSIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRjdGRiIvPgo8cmVjdCB4PSIzIiB5PSIyIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGN0ZGIi8%2BCjxyZWN0IHg9IjciIHk9IjIiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEY3RkYiLz4KPHJlY3QgeD0iMiIgeT0iMyIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRjdGRiIvPgo8cmVjdCB4PSI4IiB5PSIzIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGN0ZGIi8%2BCjxyZWN0IHg9IjEiIHk9IjQiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEY3RkYiLz4KPHJlY3QgeD0iOSIgeT0iNCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRjdGRiIvPgo8cmVjdCB4PSIyIiB5PSI1IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGN0ZGIi8%2BCjxyZWN0IHg9IjgiIHk9IjUiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEY3RkYiLz4KPHJlY3QgeD0iMyIgeT0iNiIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRjdGRiIvPgo8cmVjdCB4PSI3IiB5PSI2IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGN0ZGIi8%2BCjxyZWN0IHg9IjQiIHk9IjciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEY3RkYiLz4KPHJlY3QgeD0iNiIgeT0iNyIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRjdGRiIvPjwvc3ZnPg%3D%3D" alt="Mindset: Builder → Defender">
+<img src="https://img.shields.io/badge/BASE-MALAYSIA-050510?style=for-the-badge&labelColor=0A1025&logo=googlemaps&logoColor=00FF41" alt="Base: Malaysia">
 
 </div>
 
-```text
-┌──[ blaze@digital-ocean ]─[~]
-└─$ cat about.txt
+<img src="assets/divider.svg" width="100%" alt="">
 
-  name        : Lau Zen Hao
-  alias       : Blaze Eternum
-  location    : Malaysia
-  studying    : B.IT (Cyber Security) with Honours
-  institution : NEW ERA University College (since 2026)
-  aiming for  : Incident Response Specialist
-                Security Researcher
-  mindset     : Builder → Defender
-```
-
-> *"To protect a system, you must first understand how it is built from the ground up."*
-
-I build things (games, 3D scenes, websites, small tools) to understand how systems work from the inside. Then I use that understanding to defend them. That is the **Builder → Defender** path.
-
-**What pulls me in:** cybersecurity · game development · 3D modeling · video editing · IT support · technology exploration · PC gaming
-
-<img src="assets/divider.svg" alt="" width="100%">
-
-## 🧰 Tech Arsenal
-
-**Programming**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0A1025)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0A1025)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0A1025)
-![Python](https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0A1025)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0A1025)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0A1025)
-![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black&labelColor=0A1025)
-
-**Tools**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0A1025)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0A1025)
-![GitHub](https://img.shields.io/badge/GitHub-6e7681?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1025)
-![Blender](https://img.shields.io/badge/Blender-EA7600?style=for-the-badge&logo=blender&logoColor=white&labelColor=0A1025)
-![Unity](https://img.shields.io/badge/Unity-6e7681?style=for-the-badge&logo=unity&logoColor=white&labelColor=0A1025)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0A1025)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-4C6A92?style=for-the-badge&logo=davinciresolve&logoColor=white&labelColor=0A1025)
-![剪映](https://img.shields.io/badge/%E5%89%AA%E6%98%A0-00A8B5?style=for-the-badge&labelColor=0A1025)
-
-**Currently learning**
-
-![JavaScript DOM](https://img.shields.io/badge/learning-JavaScript_DOM-00F7FF?style=flat-square&labelColor=0A1025)
-![Responsive Web Design](https://img.shields.io/badge/learning-Responsive_Web_Design-008CFF?style=flat-square&labelColor=0A1025)
-![UI/UX fundamentals](https://img.shields.io/badge/learning-UI%2FUX_Fundamentals-A020F0?style=flat-square&labelColor=0A1025)
-![CSS animations](https://img.shields.io/badge/learning-CSS_Animations-FF3CAC?style=flat-square&labelColor=0A1025)
-![Unity Essentials](https://img.shields.io/badge/learning-Unity_Essentials-00FF41?style=flat-square&labelColor=0A1025&logoColor=black)
-![3D modeling](https://img.shields.io/badge/learning-3D_Modeling-00F7FF?style=flat-square&labelColor=0A1025)
-![Advanced video editing](https://img.shields.io/badge/learning-Advanced_Video_Editing-008CFF?style=flat-square&labelColor=0A1025)
-
-<sub>I'm a student, so most of this stack is still growing. I'd rather show what I'm learning than overclaim.</sub>
-
-<img src="assets/divider.svg" alt="" width="100%">
-
-## 🚀 Featured Projects
+## 🦈 `> whoami`
 
 <table>
-<tr><td>
+<tr>
+<td width="36%" align="center" valign="middle">
 
-![Project 01](https://img.shields.io/badge/PROJECT_01-THE_MASK_GUARDIAN-00F7FF?style=for-the-badge&labelColor=0A1025)
+<img src="assets/shark.svg" alt="Pixel cyber shark mascot wearing glowing cyan sunglasses" width="100%">
 
-<a href="https://www.youtube.com/watch?v=eMAPclollZ8"><img src="assets/mask-guardian.jpg" alt="The Mask Guardian title card: a golden pixel-art mask in front of a ruined castle, with a Play Now call to action" width="100%"></a>
+<sub><code>resident pixel cyber shark · status: swimming</code></sub>
 
-A **2D action game** made at **Global Game Jam 2026** by team **META:GEN** (9 people).
+</td>
+<td width="64%" valign="top">
+
+```yaml
+# ~/.blaze/profile.yaml
+name:        "Lau Zen Hao"
+alias:       "Blaze Eternum"
+location:    "Malaysia"
+education:   "Bachelor in Information Technology (Cyber Security) with Honours"
+institution: "NEW ERA University College"
+enrolled:    2026
+mindset:     "Builder -> Defender"
+status:      "evolving alongside technology"
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> ### *"To protect a system, you must first understand how it is built from the ground up."*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**▸ PASSIONATE ABOUT**
+
+- 🛡️ &nbsp;Cybersecurity
+- 🎮 &nbsp;Game development
+- 🧊 &nbsp;3D modeling
+- 🎬 &nbsp;Video editing
+- 🛠️ &nbsp;IT support
+- 🔭 &nbsp;Technology exploration
+- 🕹️ &nbsp;PC gaming
+
+</td>
+<td width="50%" valign="top">
+
+**▸ TARGET ROLES**
+
+<img src="https://img.shields.io/badge/INCIDENT_RESPONSE_SPECIALIST-0A1025?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMSAxMiIgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj48cmVjdCB4PSIyIiB5PSIxIiB3aWR0aD0iNyIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGRjQxIi8%2BCjxyZWN0IHg9IjEiIHk9IjIiIHdpZHRoPSI5IiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGNDEiLz4KPHJlY3QgeD0iMSIgeT0iMyIgd2lkdGg9IjQiIGhlaWdodD0iMSIgZmlsbD0iIzAwRkY0MSIvPgo8cmVjdCB4PSI2IiB5PSIzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGRjQxIi8%2BCjxyZWN0IHg9IjEiIHk9IjQiIHdpZHRoPSIzIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGNDEiLz4KPHJlY3QgeD0iNyIgeT0iNCIgd2lkdGg9IjMiIGhlaWdodD0iMSIgZmlsbD0iIzAwRkY0MSIvPgo8cmVjdCB4PSIxIiB5PSI1IiB3aWR0aD0iNCIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGRjQxIi8%2BCjxyZWN0IHg9IjYiIHk9IjUiIHdpZHRoPSI0IiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGNDEiLz4KPHJlY3QgeD0iMiIgeT0iNiIgd2lkdGg9IjciIGhlaWdodD0iMSIgZmlsbD0iIzAwRkY0MSIvPgo8cmVjdCB4PSIyIiB5PSI3IiB3aWR0aD0iNyIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGRjQxIi8%2BCjxyZWN0IHg9IjMiIHk9IjgiIHdpZHRoPSI1IiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGNDEiLz4KPHJlY3QgeD0iNCIgeT0iOSIgd2lkdGg9IjMiIGhlaWdodD0iMSIgZmlsbD0iIzAwRkY0MSIvPgo8cmVjdCB4PSI1IiB5PSIxMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRkY0MSIvPjwvc3ZnPg%3D%3D" alt="Incident Response Specialist">
+<br>
+<img src="https://img.shields.io/badge/SECURITY_RESEARCHER-0A1025?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMSAxMSIgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj48cmVjdCB4PSIyIiB5PSIxIiB3aWR0aD0iNCIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGN0ZGIi8%2BCjxyZWN0IHg9IjEiIHk9IjIiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEY3RkYiLz4KPHJlY3QgeD0iNiIgeT0iMiIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRjdGRiIvPgo8cmVjdCB4PSIxIiB5PSIzIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGN0ZGIi8%2BCjxyZWN0IHg9IjYiIHk9IjMiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEY3RkYiLz4KPHJlY3QgeD0iMSIgeT0iNCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRjdGRiIvPgo8cmVjdCB4PSI2IiB5PSI0IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGN0ZGIi8%2BCjxyZWN0IHg9IjEiIHk9IjUiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEY3RkYiLz4KPHJlY3QgeD0iNiIgeT0iNSIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRjdGRiIvPgo8cmVjdCB4PSIyIiB5PSI2IiB3aWR0aD0iNCIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGN0ZGIi8%2BCjxyZWN0IHg9IjciIHk9IjYiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEY3RkYiLz4KPHJlY3QgeD0iNiIgeT0iNyIgd2lkdGg9IjMiIGhlaWdodD0iMSIgZmlsbD0iIzAwRjdGRiIvPgo8cmVjdCB4PSI3IiB5PSI4IiB3aWR0aD0iMyIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGN0ZGIi8%2BCjxyZWN0IHg9IjgiIHk9IjkiIHdpZHRoPSIyIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEY3RkYiLz48L3N2Zz4%3D" alt="Security Researcher">
+
+**▸ MINDSET: `BUILDER` → `DEFENDER`**
+
+I build things first — games, 3D worlds, small tools — so I understand how they work from the inside before I learn how to defend them.
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 🧪 `> ./skills.sh`
+
+<table>
+<tr>
+<th width="50%">💻 &nbsp;PROGRAMMING</th>
+<th width="50%">🧰 &nbsp;TOOLS</th>
+</tr>
+<tr>
+<td align="center" valign="top">
+
+<img src="https://img.shields.io/badge/HTML5-0A1025?style=for-the-badge&logo=html5&logoColor=00F7FF" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-0A1025?style=for-the-badge&logo=css&logoColor=FF3CAC" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-0A1025?style=for-the-badge&logo=javascript&logoColor=00FF41" alt="JavaScript">
+<img src="https://img.shields.io/badge/Python_%C2%B7_Beginner-0A1025?style=for-the-badge&logo=python&logoColor=C45CFF" alt="Python (Beginner)">
+<img src="https://img.shields.io/badge/Java-0A1025?style=for-the-badge&logo=openjdk&logoColor=00F7FF" alt="Java">
+<img src="https://img.shields.io/badge/C%23-0A1025?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMyA5IiBzaGFwZS1yZW5kZXJpbmc9ImNyaXNwRWRnZXMiPjxyZWN0IHg9IjIiIHk9IjEiIHdpZHRoPSI0IiBoZWlnaHQ9IjEiIGZpbGw9IiNGRjNDQUMiLz4KPHJlY3QgeD0iOCIgeT0iMSIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iI0ZGM0NBQyIvPgo8cmVjdCB4PSIxMCIgeT0iMSIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iI0ZGM0NBQyIvPgo8cmVjdCB4PSIxIiB5PSIyIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjRkYzQ0FDIi8%2BCjxyZWN0IHg9IjgiIHk9IjIiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiNGRjNDQUMiLz4KPHJlY3QgeD0iMTAiIHk9IjIiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiNGRjNDQUMiLz4KPHJlY3QgeD0iMSIgeT0iMyIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iI0ZGM0NBQyIvPgo8cmVjdCB4PSI3IiB5PSIzIiB3aWR0aD0iNSIgaGVpZ2h0PSIxIiBmaWxsPSIjRkYzQ0FDIi8%2BCjxyZWN0IHg9IjEiIHk9IjQiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiNGRjNDQUMiLz4KPHJlY3QgeD0iOCIgeT0iNCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iI0ZGM0NBQyIvPgo8cmVjdCB4PSIxMCIgeT0iNCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iI0ZGM0NBQyIvPgo8cmVjdCB4PSIxIiB5PSI1IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjRkYzQ0FDIi8%2BCjxyZWN0IHg9IjciIHk9IjUiIHdpZHRoPSI1IiBoZWlnaHQ9IjEiIGZpbGw9IiNGRjNDQUMiLz4KPHJlY3QgeD0iMSIgeT0iNiIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iI0ZGM0NBQyIvPgo8cmVjdCB4PSI4IiB5PSI2IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjRkYzQ0FDIi8%2BCjxyZWN0IHg9IjEwIiB5PSI2IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjRkYzQ0FDIi8%2BCjxyZWN0IHg9IjIiIHk9IjciIHdpZHRoPSI0IiBoZWlnaHQ9IjEiIGZpbGw9IiNGRjNDQUMiLz4KPHJlY3QgeD0iOCIgeT0iNyIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iI0ZGM0NBQyIvPgo8cmVjdCB4PSIxMCIgeT0iNyIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iI0ZGM0NBQyIvPjwvc3ZnPg%3D%3D" alt="C#">
+<img src="https://img.shields.io/badge/Rust-0A1025?style=for-the-badge&logo=rust&logoColor=00FF41" alt="Rust">
+
+</td>
+<td align="center" valign="top">
+
+<img src="https://img.shields.io/badge/VS_Code-0A1025?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMSA5IiBzaGFwZS1yZW5kZXJpbmc9ImNyaXNwRWRnZXMiPjxyZWN0IHg9IjQiIHk9IjEiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEY3RkYiLz4KPHJlY3QgeD0iNiIgeT0iMSIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRjdGRiIvPgo8cmVjdCB4PSIzIiB5PSIyIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGN0ZGIi8%2BCjxyZWN0IHg9IjciIHk9IjIiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEY3RkYiLz4KPHJlY3QgeD0iMiIgeT0iMyIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRjdGRiIvPgo8cmVjdCB4PSI4IiB5PSIzIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGN0ZGIi8%2BCjxyZWN0IHg9IjEiIHk9IjQiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEY3RkYiLz4KPHJlY3QgeD0iOSIgeT0iNCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRjdGRiIvPgo8cmVjdCB4PSIyIiB5PSI1IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGN0ZGIi8%2BCjxyZWN0IHg9IjgiIHk9IjUiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEY3RkYiLz4KPHJlY3QgeD0iMyIgeT0iNiIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRjdGRiIvPgo8cmVjdCB4PSI3IiB5PSI2IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGN0ZGIi8%2BCjxyZWN0IHg9IjQiIHk9IjciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEY3RkYiLz4KPHJlY3QgeD0iNiIgeT0iNyIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRjdGRiIvPjwvc3ZnPg%3D%3D" alt="Visual Studio Code">
+<img src="https://img.shields.io/badge/Git-0A1025?style=for-the-badge&logo=git&logoColor=FF3CAC" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-0A1025?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
+<img src="https://img.shields.io/badge/Blender-0A1025?style=for-the-badge&logo=blender&logoColor=00FF41" alt="Blender">
+<img src="https://img.shields.io/badge/Unity-0A1025?style=for-the-badge&logo=unity&logoColor=00F7FF" alt="Unity">
+<img src="https://img.shields.io/badge/Docker-0A1025?style=for-the-badge&logo=docker&logoColor=FF3CAC" alt="Docker">
+<img src="https://img.shields.io/badge/DaVinci_Resolve-0A1025?style=for-the-badge&logo=davinciresolve&logoColor=C45CFF" alt="DaVinci Resolve">
+<img src="https://img.shields.io/badge/%E5%89%AA%E6%98%A0_(CapCut)-0A1025?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMSAxMCIgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj48cmVjdCB4PSIxIiB5PSIxIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGRjQxIi8%2BCjxyZWN0IHg9IjMiIHk9IjEiIHdpZHRoPSIyIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGNDEiLz4KPHJlY3QgeD0iNiIgeT0iMSIgd2lkdGg9IjIiIGhlaWdodD0iMSIgZmlsbD0iIzAwRkY0MSIvPgo8cmVjdCB4PSI5IiB5PSIxIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGRjQxIi8%2BCjxyZWN0IHg9IjEiIHk9IjIiIHdpZHRoPSIyIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGNDEiLz4KPHJlY3QgeD0iNCIgeT0iMiIgd2lkdGg9IjIiIGhlaWdodD0iMSIgZmlsbD0iIzAwRkY0MSIvPgo8cmVjdCB4PSI3IiB5PSIyIiB3aWR0aD0iMiIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGRjQxIi8%2BCjxyZWN0IHg9IjEiIHk9IjMiIHdpZHRoPSI5IiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGNDEiLz4KPHJlY3QgeD0iMSIgeT0iNCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRkY0MSIvPgo8cmVjdCB4PSI5IiB5PSI0IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGRjQxIi8%2BCjxyZWN0IHg9IjEiIHk9IjUiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGNDEiLz4KPHJlY3QgeD0iOSIgeT0iNSIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRkY0MSIvPgo8cmVjdCB4PSIxIiB5PSI2IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGRjQxIi8%2BCjxyZWN0IHg9IjkiIHk9IjYiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGNDEiLz4KPHJlY3QgeD0iMSIgeT0iNyIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRkY0MSIvPgo8cmVjdCB4PSI5IiB5PSI3IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGRjQxIi8%2BCjxyZWN0IHg9IjEiIHk9IjgiIHdpZHRoPSI5IiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGNDEiLz48L3N2Zz4%3D" alt="剪映 (CapCut)">
+
+</td>
+</tr>
+</table>
+
+**📚 CURRENTLY LEARNING** — work in progress, not expert level yet
+
+```text
+blaze@eternum:~$ cat learning.log
+[>] JavaScript DOM             [>] Unity Essentials
+[>] Responsive Web Design      [>] 3D modeling
+[>] UI/UX fundamentals         [>] Advanced video editing
+[>] CSS animations
+
+legend: [>] = actively learning (not expert level yet)
+```
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 🎮 `> ls ./projects`
+
+<!-- ░░░ PROJECT 01 ░░░ -->
+<table>
+<tr>
+<td width="42%" valign="top">
+
+<a href="https://www.youtube.com/watch?v=eMAPclollZ8"><img src="assets/projects/themaskguardian.jpg" alt="The Mask Guardian — watch the trailer" width="100%"></a>
+
+</td>
+<td width="58%" valign="top">
+
+### 🎭 PROJECT 01 // THE MASK GUARDIAN
+
+`Global Game Jam 2026` · `2D action game` · `Team META:GEN · 9 members`
+
+A 2D action game where players fight monsters with different weapons and powerful masks that grant unique buffs — built with my team during Global Game Jam 2026.
 
 - **My roles:** UI Designer · VFX Artist · Animator · Video Editor
-- **Built with:** Unity · C# · Blender · 剪映
+- **Stack:** `Unity` `C#` `Blender` `剪映 (CapCut)`
 
-<a href="https://metagenteyben.itch.io/the-mask-guardian"><img src="https://img.shields.io/badge/PLAY-on_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=0A1025" alt="Play The Mask Guardian on itch.io"></a>
-<a href="https://www.youtube.com/watch?v=eMAPclollZ8"><img src="https://img.shields.io/badge/WATCH-Trailer-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0A1025" alt="Watch The Mask Guardian trailer on YouTube"></a>
+<a href="https://metagenteyben.itch.io/the-mask-guardian"><img src="https://img.shields.io/badge/PLAY_ON_ITCH.IO-0A1025?style=for-the-badge&logo=itchdotio&logoColor=00F7FF" alt="Play The Mask Guardian on itch.io"></a>
+<a href="https://www.youtube.com/watch?v=eMAPclollZ8"><img src="https://img.shields.io/badge/WATCH_TRAILER-0A1025?style=for-the-badge&logo=youtube&logoColor=FF3CAC" alt="Watch The Mask Guardian trailer on YouTube"></a>
 
-</td></tr>
+</td>
+</tr>
 </table>
 
+<!-- ░░░ PROJECT 02 ░░░ -->
 <table>
-<tr><td>
+<tr>
+<td width="42%" valign="top">
 
-![Project 02](https://img.shields.io/badge/PROJECT_02-SPEAKUP_VR-A020F0?style=for-the-badge&labelColor=0A1025)
+<a href="https://www.youtube.com/watch?v=Lp8jquOtJiI"><img src="assets/projects/SpeakUP_VR.jpg" alt="SpeakUP VR — watch the trailer" width="100%"></a>
 
-<a href="https://www.youtube.com/watch?v=Lp8jquOtJiI"><img src="assets/speakup-vr.jpg" alt="SpeakUP VR title card: Overcoming Social Anxiety, coming soon, by META:GEN, made with Unity" width="100%"></a>
+</td>
+<td width="58%" valign="top">
 
-A **progressive VR exposure tool** designed to help people work through social anxiety and build confidence in public speaking. Built by team **META:GEN**.
+### 🥽 PROJECT 02 // SPEAKUP VR
 
-🏆 **Top 3 in the VR Category**, MYVERSE Malaysia Creative Technology Competition 2026
+`VR` · `Team META:GEN` · `MYVERSE Malaysia Creative Technology Competition 2026`
 
-- **My role:** Artist & Creative Designer
-- **What I made:** 3D modeling · scene assets · environment design · level art · animation · SFX and VFX
-- **Built with:** Unity · C# · Blender · 剪映
+A progressive VR exposure tool designed to help people overcome social anxiety and improve their public speaking, one stage at a time.
 
-<a href="https://www.youtube.com/watch?v=Lp8jquOtJiI"><img src="https://img.shields.io/badge/WATCH-Trailer-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0A1025" alt="Watch the SpeakUP VR trailer on YouTube"></a>
+<img src="https://img.shields.io/badge/TOP_3_%C2%B7_VR_CATEGORY-MYVERSE_MALAYSIA_2026-050510?style=for-the-badge&labelColor=0A1025&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMSAxMSIgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj48cmVjdCB4PSIxIiB5PSIxIiB3aWR0aD0iOSIgaGVpZ2h0PSIxIiBmaWxsPSIjRkZEMTY2Ii8%2BCjxyZWN0IHg9IjEiIHk9IjIiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiNGRkQxNjYiLz4KPHJlY3QgeD0iMyIgeT0iMiIgd2lkdGg9IjUiIGhlaWdodD0iMSIgZmlsbD0iI0ZGRDE2NiIvPgo8cmVjdCB4PSI5IiB5PSIyIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjRkZEMTY2Ii8%2BCjxyZWN0IHg9IjEiIHk9IjMiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiNGRkQxNjYiLz4KPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjUiIGhlaWdodD0iMSIgZmlsbD0iI0ZGRDE2NiIvPgo8cmVjdCB4PSI5IiB5PSIzIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjRkZEMTY2Ii8%2BCjxyZWN0IHg9IjIiIHk9IjQiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiNGRkQxNjYiLz4KPHJlY3QgeD0iNCIgeT0iNCIgd2lkdGg9IjMiIGhlaWdodD0iMSIgZmlsbD0iI0ZGRDE2NiIvPgo8cmVjdCB4PSI4IiB5PSI0IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjRkZEMTY2Ii8%2BCjxyZWN0IHg9IjMiIHk9IjUiIHdpZHRoPSI1IiBoZWlnaHQ9IjEiIGZpbGw9IiNGRkQxNjYiLz4KPHJlY3QgeD0iNCIgeT0iNiIgd2lkdGg9IjMiIGhlaWdodD0iMSIgZmlsbD0iI0ZGRDE2NiIvPgo8cmVjdCB4PSI1IiB5PSI3IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjRkZEMTY2Ii8%2BCjxyZWN0IHg9IjQiIHk9IjgiIHdpZHRoPSIzIiBoZWlnaHQ9IjEiIGZpbGw9IiNGRkQxNjYiLz4KPHJlY3QgeD0iMyIgeT0iOSIgd2lkdGg9IjUiIGhlaWdodD0iMSIgZmlsbD0iI0ZGRDE2NiIvPjwvc3ZnPg%3D%3D" alt="Top 3 in the VR Category — MYVERSE Malaysia Creative Technology Competition 2026">
 
-</td></tr>
+- **My role:** Artist & Creative Designer — 3D modeling, scene assets, environment design, level art, animation, SFX & VFX
+- **Stack:** `Unity` `C#` `Blender` `剪映 (CapCut)`
+
+<a href="https://www.youtube.com/watch?v=Lp8jquOtJiI"><img src="https://img.shields.io/badge/WATCH_TRAILER-0A1025?style=for-the-badge&logo=youtube&logoColor=FF3CAC" alt="Watch the SpeakUP VR trailer on YouTube"></a>
+
+</td>
+</tr>
 </table>
 
+<!-- ░░░ PROJECT 03 ░░░ -->
 <table>
-<tr><td>
+<tr>
+<td width="42%" valign="top">
 
-![Project 03](https://img.shields.io/badge/PROJECT_03-FILE_SECURE_ENCRYPTOR_v6.0.0-00FF41?style=for-the-badge&labelColor=0A1025)
+<img src="assets/projects/Encryptor.png" alt="BlazeEternum File Secure Encryptor v6.0.0 running in a terminal" width="100%">
 
-<img src="assets/encryptor-console.png" alt="Terminal screenshot of BlazeEternum Secure Encryptor v6.0.0 showing Kyber-1024, AES-256-GCM with HKDF-SHA256 and Argon2id, with an encrypt or decrypt menu" width="100%">
+</td>
+<td width="58%" valign="top">
 
-**BlazeEternum File Secure Encryptor** is a personal file-encryption project written in **Rust**. I use it to explore post-quantum cryptography and how modern encryption pieces fit together.
+### 🔐 PROJECT 03 // BLAZEETERNUM FILE SECURE ENCRYPTOR v6.0.0
 
-![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black&labelColor=0A1025)
-![Kyber-1024 / ML-KEM](https://img.shields.io/badge/Kyber--1024-ML--KEM-008CFF?style=flat-square&labelColor=0A1025)
-![AES-256-GCM](https://img.shields.io/badge/AES--256--GCM-A020F0?style=flat-square&labelColor=0A1025)
-![HKDF-SHA256](https://img.shields.io/badge/HKDF--SHA256-FF3CAC?style=flat-square&labelColor=0A1025)
-![Argon2id](https://img.shields.io/badge/Argon2id-00F7FF?style=flat-square&labelColor=0A1025)
-![liboqs](https://img.shields.io/badge/liboqs-00FF41?style=flat-square&labelColor=0A1025)
+`Personal project` · `Rust` · `Post-quantum cryptography`
 
-> ⚠️ A personal learning project. It has not been independently audited and makes no security guarantees, so please don't use it to protect anything critical.
-
-<!-- Add a repo link badge here once the encryptor is public. -->
-
-</td></tr>
-</table>
-
-<img src="assets/divider.svg" alt="" width="100%">
-
-## 🎓 Education Timeline
+A personal Rust-based file encryption tool I built to explore post-quantum cryptography hands-on: a Kyber-1024 / ML-KEM key exchange wrapped around AES-256-GCM, with HKDF-SHA256 for key derivation and Argon2id for key-file hardening.
 
 ```text
- 2026 → NOW   ◉  Bachelor in IT (Cyber Security)
-                  with Honours
-                  NEW ERA University College
- │
- 2025 → 2026  ○  Foundation in Arts
- │
- 2024         ○  SPM
+Post-quantum KEM : Kyber-1024 / ML-KEM (via liboqs)
+Encryption       : AES-256-GCM
+Key derivation   : HKDF-SHA256
+Key-file KDF     : Argon2id
+Language         : Rust
 ```
 
-<img src="assets/divider.svg" alt="" width="100%">
+<sub>⚠️ Personal learning project. It has <b>not</b> been independently audited and makes no guarantees — use established, audited tools for anything that matters.</sub>
 
-## 📊 GitHub Stats
+<!-- When the source is public, add:
+<a href="https://github.com/blazeeternum/YOUR-ENCRYPTOR-REPO"><img src="https://img.shields.io/badge/SOURCE_CODE-0A1025?style=for-the-badge&logo=github&logoColor=00F7FF" alt="Source code"></a>
+-->
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 🎓 `> cat education.log`
+
+| STATUS | PERIOD | PROGRAM | INSTITUTION |
+|:--|:--|:--|:--|
+| `▶ IN PROGRESS` | **2026 – Present** | Bachelor in Information Technology (Cyber Security) with Honours | NEW ERA University College |
+| `■ COMPLETE` | **2025 – 2026** | Foundation in Arts | NEW ERA University College |
+| `■ COMPLETE` | **2024** | SPM (Sijil Pelajaran Malaysia) | Secondary school |
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 📊 `> ./stats --user blazeeternum`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=blazeeternum&show_icons=true&hide_border=false&bg_color=0A1025&title_color=00F7FF&text_color=C9D1D9&icon_color=A020F0&border_color=00F7FF&border_radius=10" alt="blazeeternum GitHub stats" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazeeternum&layout=compact&langs_count=6&bg_color=0A1025&title_color=00F7FF&text_color=C9D1D9&border_color=00F7FF&border_radius=10" alt="blazeeternum top languages" width="49%">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=blazeeternum&show_icons=true&hide_border=true&bg_color=050510&title_color=00F7FF&icon_color=A020F0&text_color=C9D1D9&ring_color=00FF41" alt="Blaze Eternum's GitHub stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazeeternum&layout=compact&hide_border=true&bg_color=050510&title_color=00F7FF&text_color=C9D1D9&langs_count=8" alt="Top languages">
 
-<img src="https://streak-stats.demolab.com/?user=blazeeternum&background=0A1025&stroke=00F7FF&ring=A020F0&fire=FF3CAC&currStreakNum=FFFFFF&currStreakLabel=00F7FF&sideNums=FFFFFF&sideLabels=00FF41&dates=8B949E&border_radius=10" alt="blazeeternum contribution streak" width="98%">
+<img src="https://streak-stats.demolab.com/?user=blazeeternum&hide_border=true&background=050510&ring=00F7FF&fire=FF3CAC&currStreakNum=00FF41&sideNums=00F7FF&currStreakLabel=00F7FF&sideLabels=A020F0&dates=8B949E&stroke=0A1025" alt="Contribution streak">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=blazeeternum&bg_color=0A1025&color=00FF41&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF&hide_border=true&radius=10" alt="blazeeternum contribution activity graph" width="98%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=blazeeternum&bg_color=050510&color=00F7FF&line=A020F0&point=FF3CAC&area=true&area_color=0A1025&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%">
 
-<sub>Live cards from third-party services. If one is down, the rest of this page still works.</sub>
+<sub>Cards are rendered live by third-party services (github-readme-stats, streak-stats, activity-graph). If one is temporarily down, its card simply won't appear.</sub>
 
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="assets/divider.svg" width="100%" alt="">
 
-## 📡 Connect
+## 📡 `> ./connect`
 
 <div align="center">
 
-<a href="https://github.com/blazeeternum"><img src="https://img.shields.io/badge/GitHub-blazeeternum-00F7FF?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=0A1025" alt="GitHub: blazeeternum"></a>
-<a href="https://www.linkedin.com/in/%EF%BC%88blaze%EF%BC%89lau-zen-hao-334884223/"><img src="https://img.shields.io/badge/LinkedIn-Zen_Hao_Lau-008CFF?style=for-the-badge&logo=linkedin&logoColor=008CFF&labelColor=0A1025" alt="LinkedIn: Zen Hao Lau"></a>
-<a href="mailto:zenhao007@gmail.com"><img src="https://img.shields.io/badge/Email-zenhao007@gmail.com-A020F0?style=for-the-badge&logo=gmail&logoColor=A020F0&labelColor=0A1025" alt="Email: zenhao007@gmail.com"></a>
-<a href="https://www.youtube.com/@BlazeEternum"><img src="https://img.shields.io/badge/YouTube-%40BlazeEternum-FF3CAC?style=for-the-badge&logo=youtube&logoColor=FF3CAC&labelColor=0A1025" alt="YouTube: @BlazeEternum"></a>
-<a href="https://www.instagram.com/lauzenhao_blaze/"><img src="https://img.shields.io/badge/Instagram-%40lauzenhao__blaze-00FF41?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=0A1025" alt="Instagram: @lauzenhao_blaze"></a>
-<a href="https://blazewebsite.dpdns.org/"><img src="https://img.shields.io/badge/Portfolio-blazewebsite.dpdns.org-00F7FF?style=for-the-badge&logo=safari&logoColor=00F7FF&labelColor=0A1025" alt="Portfolio: blazewebsite.dpdns.org"></a>
+<a href="https://github.com/blazeeternum"><img src="https://img.shields.io/badge/GITHUB-050510?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub: blazeeternum"></a>
+<a href="https://www.linkedin.com/in/%EF%BC%88blaze%EF%BC%89lau-zen-hao-334884223/"><img src="https://img.shields.io/badge/LINKEDIN-050510?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4IDkiIHNoYXBlLXJlbmRlcmluZz0iY3Jpc3BFZGdlcyI%2BPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRjdGRiIvPgo8cmVjdCB4PSIxIiB5PSIzIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGN0ZGIi8%2BCjxyZWN0IHg9IjMiIHk9IjMiIHdpZHRoPSI0IiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEY3RkYiLz4KPHJlY3QgeD0iMSIgeT0iNCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRjdGRiIvPgo8cmVjdCB4PSIzIiB5PSI0IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGN0ZGIi8%2BCjxyZWN0IHg9IjYiIHk9IjQiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEY3RkYiLz4KPHJlY3QgeD0iMSIgeT0iNSIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRjdGRiIvPgo8cmVjdCB4PSIzIiB5PSI1IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGN0ZGIi8%2BCjxyZWN0IHg9IjYiIHk9IjUiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEY3RkYiLz4KPHJlY3QgeD0iMSIgeT0iNiIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRjdGRiIvPgo8cmVjdCB4PSIzIiB5PSI2IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGN0ZGIi8%2BCjxyZWN0IHg9IjYiIHk9IjYiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEY3RkYiLz4KPHJlY3QgeD0iMSIgeT0iNyIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRjdGRiIvPgo8cmVjdCB4PSIzIiB5PSI3IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGN0ZGIi8%2BCjxyZWN0IHg9IjYiIHk9IjciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEY3RkYiLz48L3N2Zz4%3D" alt="LinkedIn: (Blaze) Lau Zen Hao"></a>
+<a href="mailto:zenhao007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050510?style=for-the-badge&logo=gmail&logoColor=FF3CAC" alt="Email: zenhao007@gmail.com"></a>
+<a href="https://www.youtube.com/@BlazeEternum"><img src="https://img.shields.io/badge/YOUTUBE-050510?style=for-the-badge&logo=youtube&logoColor=FF3CAC" alt="YouTube: @BlazeEternum"></a>
+<a href="https://www.instagram.com/lauzenhao_blaze/"><img src="https://img.shields.io/badge/INSTAGRAM-050510?style=for-the-badge&logo=instagram&logoColor=C45CFF" alt="Instagram: @lauzenhao_blaze"></a>
+<a href="https://blazewebsite.dpdns.org/"><img src="https://img.shields.io/badge/PORTFOLIO-050510?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNSAxMCIgc2hhcGUtcmVuZGVyaW5nPSJjcmlzcEVkZ2VzIj48cmVjdCB4PSI3IiB5PSIxIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGRjQxIi8%2BCjxyZWN0IHg9IjIiIHk9IjIiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGNDEiLz4KPHJlY3QgeD0iNyIgeT0iMiIgd2lkdGg9IjIiIGhlaWdodD0iMSIgZmlsbD0iIzAwRkY0MSIvPgo8cmVjdCB4PSIyIiB5PSIzIiB3aWR0aD0iMiIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGRjQxIi8%2BCjxyZWN0IHg9IjYiIHk9IjMiIHdpZHRoPSI1IiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGNDEiLz4KPHJlY3QgeD0iMyIgeT0iNCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGNDEiLz4KPHJlY3QgeD0iMyIgeT0iNSIgd2lkdGg9IjQiIGhlaWdodD0iMSIgZmlsbD0iIzAwRkY0MSIvPgo8cmVjdCB4PSI4IiB5PSI1IiB3aWR0aD0iNiIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGRjQxIi8%2BCjxyZWN0IHg9IjIiIHk9IjYiIHdpZHRoPSIyIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGNDEiLz4KPHJlY3QgeD0iNSIgeT0iNiIgd2lkdGg9IjYiIGhlaWdodD0iMSIgZmlsbD0iIzAwRkY0MSIvPgo8cmVjdCB4PSIxMiIgeT0iNiIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRkY0MSIvPgo8cmVjdCB4PSIyIiB5PSI3IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBGRjQxIi8%2BCjxyZWN0IHg9IjciIHk9IjciIHdpZHRoPSIyIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMEZGNDEiLz4KPHJlY3QgeD0iNyIgeT0iOCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzAwRkY0MSIvPjwvc3ZnPg%3D%3D" alt="Portfolio: blazewebsite.dpdns.org"></a>
+
+<br>
+
+<sub>📬 &nbsp;Open to collaborations, CTF teams and creative-tech projects — the inbox is always online.</sub>
 
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<img src="assets/divider.svg" width="100%" alt="">
 
 <div align="center">
 
-*"Every system has a weakness. Every weakness is an opportunity to learn."*
+<img src="assets/footer.svg" alt="SYSTEM ONLINE | SHARK MODE ACTIVE | ALWAYS EVOLVING — Every system has a weakness. Every weakness is an opportunity to learn." width="100%">
 
-<img src="assets/footer-banner.svg" alt="A small pixel-art cyber shark swimming across a digital ocean" width="100%">
-
-`SYSTEM ONLINE | SHARK MODE ACTIVE | ALWAYS EVOLVING`
+<sub>Pixel shark, banner & footer are hand-built SVGs (no JavaScript, no custom CSS) &nbsp;·&nbsp; © 2026 Blaze Eternum</sub>
 
 </div>
