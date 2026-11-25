@@ -10,6 +10,14 @@
 
 ## 🦈 About Me
 
+<div align="center">
+
+<img src="assets/profile.png" alt="Portrait of Lau Zen Hao (Blaze Eternum)" width="180">
+
+<sub>Lau Zen Hao · Blaze Eternum</sub>
+
+</div>
+
 ```text
 ┌──[ blaze@digital-ocean ]─[~]
 └─$ cat about.txt
@@ -36,24 +44,24 @@ I build things (games, 3D scenes, websites, small tools) to understand how syste
 
 **Programming**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0A1025)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0A1025)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0A1025)
-![Python](https://img.shields.io/badge/Python-Beginner-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0A1025)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0A1025)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white&labelColor=0A1025)
-![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black&labelColor=0A1025)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0A1025)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0A1025)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0A1025)
+![Python](https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0A1025)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0A1025)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0A1025)
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black&labelColor=0A1025)
 
 **Tools**
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0A1025)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0A1025)
-![GitHub](https://img.shields.io/badge/GitHub-6e7681?style=flat-square&logo=github&logoColor=white&labelColor=0A1025)
-![Blender](https://img.shields.io/badge/Blender-EA7600?style=flat-square&logo=blender&logoColor=white&labelColor=0A1025)
-![Unity](https://img.shields.io/badge/Unity-6e7681?style=flat-square&logo=unity&logoColor=white&labelColor=0A1025)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0A1025)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-4C6A92?style=flat-square&logo=davinciresolve&logoColor=white&labelColor=0A1025)
-![剪映](https://img.shields.io/badge/%E5%89%AA%E6%98%A0-00A8B5?style=flat-square&labelColor=0A1025)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0A1025)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0A1025)
+![GitHub](https://img.shields.io/badge/GitHub-6e7681?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1025)
+![Blender](https://img.shields.io/badge/Blender-EA7600?style=for-the-badge&logo=blender&logoColor=white&labelColor=0A1025)
+![Unity](https://img.shields.io/badge/Unity-6e7681?style=for-the-badge&logo=unity&logoColor=white&labelColor=0A1025)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0A1025)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-4C6A92?style=for-the-badge&logo=davinciresolve&logoColor=white&labelColor=0A1025)
+![剪映](https://img.shields.io/badge/%E5%89%AA%E6%98%A0-00A8B5?style=for-the-badge&labelColor=0A1025)
 
 **Currently learning**
 
@@ -76,6 +84,8 @@ I build things (games, 3D scenes, websites, small tools) to understand how syste
 
 ![Project 01](https://img.shields.io/badge/PROJECT_01-THE_MASK_GUARDIAN-00F7FF?style=for-the-badge&labelColor=0A1025)
 
+<a href="https://www.youtube.com/watch?v=eMAPclollZ8"><img src="assets/mask-guardian.jpg" alt="The Mask Guardian title card: a golden pixel-art mask in front of a ruined castle, with a Play Now call to action" width="100%"></a>
+
 A **2D action game** made at **Global Game Jam 2026** by team **META:GEN** (9 people).
 
 - **My roles:** UI Designer · VFX Artist · Animator · Video Editor
@@ -91,6 +101,8 @@ A **2D action game** made at **Global Game Jam 2026** by team **META:GEN** (9 pe
 <tr><td>
 
 ![Project 02](https://img.shields.io/badge/PROJECT_02-SPEAKUP_VR-A020F0?style=for-the-badge&labelColor=0A1025)
+
+<a href="https://www.youtube.com/watch?v=Lp8jquOtJiI"><img src="assets/speakup-vr.jpg" alt="SpeakUP VR title card: Overcoming Social Anxiety, coming soon, by META:GEN, made with Unity" width="100%"></a>
 
 A **progressive VR exposure tool** designed to help people work through social anxiety and build confidence in public speaking. Built by team **META:GEN**.
 
@@ -109,6 +121,8 @@ A **progressive VR exposure tool** designed to help people work through social a
 <tr><td>
 
 ![Project 03](https://img.shields.io/badge/PROJECT_03-FILE_SECURE_ENCRYPTOR_v6.0.0-00FF41?style=for-the-badge&labelColor=0A1025)
+
+<img src="assets/encryptor-console.png" alt="Terminal screenshot of BlazeEternum Secure Encryptor v6.0.0 showing Kyber-1024, AES-256-GCM with HKDF-SHA256 and Argon2id, with an encrypt or decrypt menu" width="100%">
 
 **BlazeEternum File Secure Encryptor** is a personal file-encryption project written in **Rust**. I use it to explore post-quantum cryptography and how modern encryption pieces fit together.
 
